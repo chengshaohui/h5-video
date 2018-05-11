@@ -1,0 +1,283 @@
+{
+  "code": 0,
+  "msg": "ok",
+  "value": {
+    "praiseNum": 436,
+    "chatList": [
+      {
+        "comment": {
+          "id": 1813,
+          "liveId": 1525225522482964,
+          "userLogo": "http://sz.qukanvideo.com/cloud/static/img/window/userLogo/3.png",
+          "userName": "陆兰谷",
+          "userId": "",
+          "userType": "",
+          "msg": "测试",
+          "msgType": 0,
+          "appellation": "",
+          "displayOrder": 0,
+          "mark": 1,
+          "updateTime": 1525949355000,
+          "createTime": 1525949347000,
+          "createTimeStr": null
+        },
+        "replies": [
+          {
+            "id": 35,
+            "activityId": 1525225522482964,
+            "commentId": 1813,
+            "userId": "",
+            "userName": "陆兰谷",
+            "userLogo": "http://sz.qukanvideo.com/cloud/static/img/window/userLogo/3.png",
+            "userType": "",
+            "msg": "测试",
+            "createTime": 1525949355000,
+            "updateTime": 1525949355000
+          }
+        ],
+        "show": false,
+        "hasMoreReply": false
+      },
+      {
+        "comment": {
+          "id": 1812,
+          "liveId": 1525225522482964,
+          "userLogo": "http://sz.qukanvideo.com/cloud/static/img/window/userLogo/4.png",
+          "userName": "空冥翰",
+          "userId": "",
+          "userType": "",
+          "msg": "一二三",
+          "msgType": 0,
+          "appellation": "",
+          "displayOrder": 0,
+          "mark": 1,
+          "updateTime": 1525949338000,
+          "createTime": 1525944872000,
+          "createTimeStr": null
+        },
+        "replies": [
+          {
+            "id": 34,
+            "activityId": 1525225522482964,
+            "commentId": 1812,
+            "userId": "",
+            "userName": "陆兰谷",
+            "userLogo": "http://sz.qukanvideo.com/cloud/static/img/window/userLogo/3.png",
+            "userType": "",
+            "msg": "测试",
+            "createTime": 1525949338000,
+            "updateTime": 1525949338000
+          }
+        ],
+        "show": false,
+        "hasMoreReply": false
+      },
+      {
+        "comment": {
+          "id": 1811,
+          "liveId": 1525225522482964,
+          "userLogo": "http://sz.qukanvideo.com/cloud/static/img/window/userLogo/4.png",
+          "userName": "空冥翰",
+          "userId": "",
+          "userType": "",
+          "msg": "双方的算法算法撒旦发射点发射点",
+          "msgType": 0,
+          "appellation": "",
+          "displayOrder": 0,
+          "mark": 0,
+          "updateTime": 1525944786000,
+          "createTime": 1525944786000,
+          "createTimeStr": null
+        },
+        "replies": [],
+        "show": false,
+        "hasMoreReply": false
+      },
+      {
+        "comment": {
+          "id": 1810,
+          "liveId": 1525225522482964,
+          "userLogo": "http://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJV85wyQG4Lm4cueXa2nLNH5JqIQW2mPXIWzCGr5cwHLEvuFBmtYCv4mObW8crHaGyDSibgeHJcuNw/132",
+          "userName": "ENU",
+          "userId": "oq6vUt_iPzOmjgvXDj_avidiVTUE",
+          "userType": "weixin",
+          "msg": "啊啊啊啊啊啊啊啊",
+          "msgType": 0,
+          "appellation": "",
+          "displayOrder": 0,
+          "mark": 0,
+          "updateTime": 1525944520000,
+          "createTime": 1525944520000,
+          "createTimeStr": null
+        },
+        "replies": [],
+        "show": false,
+        "hasMoreReply": false
+      },
+      {
+        "comment": {
+          "id": 1809,
+          "liveId": 1525225522482964,
+          "userLogo": "http://thirdwx.qlogo.cn/mmopen/vi_32/zMzW71vYSqwFoYo0liaCNpa9aPedCRBlvYrmeCp4BJfrRMIwo87BCTNoegRItic7d4ybdBqL5hEflzwad6GfES8A/132",
+          "userName": "程少辉",
+          "userId": "oq6vUt3Xdq-TYZPVKKLFfDAhKd4M",
+          "userType": "weixin",
+          "msg": "哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈",
+          "msgType": 0,
+          "appellation": "",
+          "displayOrder": 0,
+          "mark": 0,
+          "updateTime": 1525942241000,
+          "createTime": 1525942241000,
+          "createTimeStr": null
+        },
+        "replies": [],
+        "show": false,
+        "hasMoreReply": false
+      },
+      {
+        "comment": {
+          "id": 1808,
+          "liveId": 1525225522482964,
+          "userLogo": "http://thirdwx.qlogo.cn/mmopen/vi_32/zMzW71vYSqwFoYo0liaCNpa9aPedCRBlvYrmeCp4BJfrRMIwo87BCTNoegRItic7d4ybdBqL5hEflzwad6GfES8A/132",
+          "userName": "程少辉",
+          "userId": "oq6vUt3Xdq-TYZPVKKLFfDAhKd4M",
+          "userType": "weixin",
+          "msg": "哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈",
+          "msgType": 0,
+          "appellation": "",
+          "displayOrder": 0,
+          "mark": 0,
+          "updateTime": 1525942231000,
+          "createTime": 1525942231000,
+          "createTimeStr": null
+        },
+        "replies": [],
+        "show": false,
+        "hasMoreReply": false
+      },
+      {
+        "comment": {
+          "id": 1807,
+          "liveId": 1525225522482964,
+          "userLogo": "http://thirdwx.qlogo.cn/mmopen/vi_32/zMzW71vYSqwFoYo0liaCNpa9aPedCRBlvYrmeCp4BJfrRMIwo87BCTNoegRItic7d4ybdBqL5hEflzwad6GfES8A/132",
+          "userName": "程少辉",
+          "userId": "oq6vUt3Xdq-TYZPVKKLFfDAhKd4M",
+          "userType": "weixin",
+          "msg": "哈哈",
+          "msgType": 0,
+          "appellation": "",
+          "displayOrder": 0,
+          "mark": 0,
+          "updateTime": 1525937722000,
+          "createTime": 1525937722000,
+          "createTimeStr": null
+        },
+        "replies": [],
+        "show": false,
+        "hasMoreReply": false
+      },
+      {
+        "comment": {
+          "id": 1806,
+          "liveId": 1525225522482964,
+          "userLogo": "http://thirdwx.qlogo.cn/mmopen/vi_32/zMzW71vYSqwFoYo0liaCNpa9aPedCRBlvYrmeCp4BJfrRMIwo87BCTNoegRItic7d4ybdBqL5hEflzwad6GfES8A/132",
+          "userName": "程少辉",
+          "userId": "oq6vUt3Xdq-TYZPVKKLFfDAhKd4M",
+          "userType": "weixin",
+          "msg": "哈哈",
+          "msgType": 0,
+          "appellation": "",
+          "displayOrder": 0,
+          "mark": 0,
+          "updateTime": 1525922307000,
+          "createTime": 1525922307000,
+          "createTimeStr": null
+        },
+        "replies": [],
+        "show": false,
+        "hasMoreReply": false
+      },
+      {
+        "comment": {
+          "id": 1805,
+          "liveId": 1525225522482964,
+          "userLogo": "http://thirdwx.qlogo.cn/mmopen/vi_32/zMzW71vYSqwFoYo0liaCNpa9aPedCRBlvYrmeCp4BJfrRMIwo87BCTNoegRItic7d4ybdBqL5hEflzwad6GfES8A/132",
+          "userName": "程少辉",
+          "userId": "oq6vUt3Xdq-TYZPVKKLFfDAhKd4M",
+          "userType": "weixin",
+          "msg": "哈哈",
+          "msgType": 0,
+          "appellation": "",
+          "displayOrder": 0,
+          "mark": 1,
+          "updateTime": 1525922194000,
+          "createTime": 1525869847000,
+          "createTimeStr": null
+        },
+        "replies": [
+          {
+            "id": 31,
+            "activityId": 1525225522482964,
+            "commentId": 1805,
+            "userId": "oq6vUt3Xdq-TYZPVKKLFfDAhKd4M",
+            "userName": "程少辉",
+            "userLogo": "http://thirdwx.qlogo.cn/mmopen/vi_32/zMzW71vYSqwFoYo0liaCNpa9aPedCRBlvYrmeCp4BJfrRMIwo87BCTNoegRItic7d4ybdBqL5hEflzwad6GfES8A/132",
+            "userType": "weixin",
+            "msg": "哈哈",
+            "createTime": 1525922194000,
+            "updateTime": 1525922194000
+          },
+          {
+            "id": 32,
+            "activityId": 1525225522482964,
+            "commentId": 1805,
+            "userId": "oq6vUt3Xdq-TYZPVKKLFfDAhKd4M",
+            "userName": "程少辉",
+            "userLogo": "http://thirdwx.qlogo.cn/mmopen/vi_32/zMzW71vYSqwFoYo0liaCNpa9aPedCRBlvYrmeCp4BJfrRMIwo87BCTNoegRItic7d4ybdBqL5hEflzwad6GfES8A/132",
+            "userType": "weixin",
+            "msg": "哈哈",
+            "createTime": 1525922205000,
+            "updateTime": 1525922205000
+          },
+          {
+            "id": 33,
+            "activityId": 1525225522482964,
+            "commentId": 1805,
+            "userId": "oq6vUt_iPzOmjgvXDj_avidiVTUE",
+            "userName": "ENU",
+            "userLogo": "http://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJV85wyQG4Lm4cueXa2nLNH5JqIQW2mPXIWzCGr5cwHLEvuFBmtYCv4mObW8crHaGyDSibgeHJcuNw/132",
+            "userType": "weixin",
+            "msg": "啊啊啊啊啊啊",
+            "createTime": 1525944550000,
+            "updateTime": 1525944550000
+          }
+        ],
+        "show": false,
+        "hasMoreReply": false
+      },
+      {
+        "comment": {
+          "id": 1804,
+          "liveId": 1525225522482964,
+          "userLogo": "http://thirdwx.qlogo.cn/mmopen/vi_32/zMzW71vYSqwFoYo0liaCNpa9aPedCRBlvYrmeCp4BJfrRMIwo87BCTNoegRItic7d4ybdBqL5hEflzwad6GfES8A/132",
+          "userName": "程少辉",
+          "userId": "oq6vUt3Xdq-TYZPVKKLFfDAhKd4M",
+          "userType": "weixin",
+          "msg": "哈哈",
+          "msgType": 0,
+          "appellation": "",
+          "displayOrder": 0,
+          "mark": 0,
+          "updateTime": 1525869835000,
+          "createTime": 1525869835000,
+          "createTimeStr": null
+        },
+        "replies": [],
+        "show": false,
+        "hasMoreReply": false
+      }
+    ],
+    "liveReportList": []
+  }
+}
