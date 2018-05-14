@@ -34,12 +34,12 @@
     .icon-tip {
       width: 4rem;
       height: 100%;
-      background: url("../../static/img/window/alert-tip.png") no-repeat center;
+      background: url("../assets/img/alert-tip.png") no-repeat center;
     }
     .icon-close {
       width: 4rem;
       height: 100%;
-      background: url("../../static/img/window/alert-close.png") no-repeat center;
+      background: url("../assets/img/alert-close.png") no-repeat center;
     }
   }
 </style>

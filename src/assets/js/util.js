@@ -37,6 +37,7 @@ exports.install = function(Vue, options) {
   Vue.prototype.$_delHtmlTag = function(htmlText) {
     return htmlText.replace(/<[^>]+>/g, '')
   }
+  // 暂数上千显示k,上万显示w
   Vue.prototype.$_numberTrans = function(num) {
     let k = 1000
     let w = 10000

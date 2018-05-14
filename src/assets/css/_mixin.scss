@@ -1,0 +1,32 @@
+@mixin bottom-1px($color) {
+  position: relative;
+  &:after {
+    display: block;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    border-top: 1px solid $color;
+    content: ' ';
+  }
+}
+
+@mixin border-none() {
+  &:after {
+    display: none;
+  }
+}
+
+// 超出一行省略号
+@mixin elliptical() {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+// 超出多行（$num）省略号
+@mixin ellipticals($num) {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: $num;
+  overflow: hidden;
+}

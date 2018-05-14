@@ -6,13 +6,10 @@ import util from './assets/js/util.js'
 import VueVideoPlayer from 'vue-video-player'
 import 'video.js/dist/video-js.css'
 import VueResource from 'vue-resource'
-import IScrollView from 'vue-iscroll-view'
-import IScroll from 'iscroll'
 
 Vue.use(VueResource)
 Vue.use(VueVideoPlayer)
 Vue.use(util)
-Vue.use(IScrollView, IScroll)
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */

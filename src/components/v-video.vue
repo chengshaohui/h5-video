@@ -15,11 +15,11 @@
       </div>
       <div class="ad-box-right">
         <div class="accessNum">
-          <img width="22" height="22" src="../../static/img/access-icon.png" alt="">
+          <img width="22" height="22" src="../assets/img/access-icon.png" alt="">
           <span class="num">{{accessNum}}</span>
         </div>
         <div class="commentNum">
-          <img width="22" height="22" src="../../static/img/comment-icon.png" alt="">
+          <img width="22" height="22" src="../assets/img/comment-icon.png" alt="">
           <span class="num">{{commentNum}}</span>
         </div>
       </div>
